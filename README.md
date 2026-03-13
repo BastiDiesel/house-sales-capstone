@@ -30,5 +30,5 @@ pip freeze > requirements.txt
 
 
 --- 
-## In-Case of Failure
+## In Case of Failure
 If you fail to do the setup by yourself, then please revisit the previous repositories where you have done the setup and follow those steps.
