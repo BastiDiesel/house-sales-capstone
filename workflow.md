@@ -32,7 +32,7 @@ This is a recommended workflow, especially for people who are on their beginning
 
 ### Understanding the Data
 
-- Download the data file "King_County_House_prices_dataset.csv" and save it in your data folder. Load the data into Panda's DataFrame.
+- Download the data file "King_County_House_prices_dataset.csv" and save it in your data folder. Load the data into pandas DataFrame.
   \_Note: anything you put in the data folder will not be uploaded to github, as the data folder is mentioned in the .gitignore file*
 - Examine the descriptive statistics of the dataset.
 - Check for missing values. Are they concentrated in some column or in some observations?
@@ -89,6 +89,6 @@ This is a recommended workflow, especially for people who are on their beginning
   - insights and recommendations for client
   - Check this out for more tips on [how to make great data science presentations](https://www.dataknowsall.com/storytelling.html)
 
-For more information regarding the image bellow check out the [EDA Checklist](https://github.com/neuefische/datascience-infographics/blob/main/EDA_Checklist.md) .
+For more information regarding the image below check out the [EDA Checklist](https://github.com/neuefische/datascience-infographics/blob/main/EDA_Checklist.md) .
 
 ![EDA Checklist](https://raw.githubusercontent.com/neuefische/datascience-infographics/main/images/EDA_Checklist.png)
